@@ -6,7 +6,7 @@ I'm a Software Engineer specializing in building mostly webstack application. I 
 
 My current skillset includes: HTML, CSS, JavaScript, Python, Node.js, Mongodb, Mongoose, Express, React, OpenAI, Postgresql, and Django.
 
-Currently I'm working on a Social Media application using Postgresql and Django as its backend, and using React for its Frontend. The goal is to have full CRUD (Create, Edit, Update, Delete) functionality acccessible only with User Authentication. This projec is being done with a team of talented developers.
+Currently I'm working on a Social Media application using Postgresql and Django as its backend, and using React for its Frontend. The goal is to have full CRUD (Create, Edit, Update, Delete) functionality acccessible only with User Authentication. I am working on this project with a team of talented developers.
 
 
 <!--
