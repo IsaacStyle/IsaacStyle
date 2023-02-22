@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Literally Me]([https://static.boredpanda.com/blog/wp-content/uploads/2019/10/wholesome-cute-duck-pics-5da04713f2775__700.jpg](https://www.peta.org/wp-content/uploads/2015/11/iStock_000002573103_George-Clerk-602x400.jpg))
+![Literally Me](https://www.peta.org/wp-content/uploads/2015/11/iStock_000002573103_George-Clerk-602x400.jpg)
 
 I'm a Software Engineer specializing in building mostly webstack application. I love a good challenge and I actively hunt for struggle... which may or may not be a sign of masochism but lets not dwell on that. I am passionate about helping others, learning and expanding my knowledge as much as possible and coding helps fulfil this desire within myself.
 
