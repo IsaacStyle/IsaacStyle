@@ -2,7 +2,7 @@
 
 ![Literally Me](https://www.peta.org/wp-content/uploads/2015/11/iStock_000002573103_George-Clerk-602x400.jpg)
 
-I am a passionate and highly skilled Full Stack Developer with a strong background in web development. I love a good challenge and I actively hunt for struggle... which may or may not be a sign of masochism but lets not dwell on that. I am passionate about helping others, learning and expanding my knowledge as much as possible and coding helps fulfil this desire within myself.
+I am a passionate and highly skilled Full Stack Developer with a strong background in web development. I love a good challenge and I actively hunt for struggle... which may or may not be a sign of masochism but lets not dwell on that. I am passionate about helping others, learning and expanding my knowledge as much as possible and coding helps fulfil this desire within myself. Currently, I'm working as a Developer at Paramint Digital so I may be working on much more than my commit history shows *Cough NDA End Cough* ;).
 
 ## Skills
 
